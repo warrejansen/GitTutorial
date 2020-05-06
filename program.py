@@ -1,2 +1,2 @@
-print("hello, Git i made a mistake")
+print("hello, Git")
 input("press ENTER to continue...")
