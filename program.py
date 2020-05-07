@@ -1,4 +1,5 @@
 print("hello, Git")
 print("ik heb een nieuwe print gemaakt aangepast")
 print("opload op gitup")
+print("new line")
 input("press ENTER to continue...")
